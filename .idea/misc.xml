@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/bg_audio.xml" value="0.30833333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/bg_dialoginfo.xml" value="0.30833333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancel.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancel_pressed.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancel_unpressed.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancell.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancell_pressed.xml" value="0.3411644535240041" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_cancell_unpressed.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_ensure.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_ensure_pressed.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/btn_ensure_unpressed.xml" value="0.3023493360572012" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/drawable/shape_text.xml" value="0.30833333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/activity_audio_list.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/activity_main.xml" value="0.28802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/activity_recoder.xml" value="0.28802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/dialog_audioinfo.xml" value="0.28802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/dialog_rename.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/item_audio.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/layout/notify_audio.xml" value="0.28802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/Simple_Recorder/app/src/main/res/menu/audio_menu.xml" value="0.28802083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

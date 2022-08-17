@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_my"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/icon_app_logo" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@id/iv_my"
+        android:text="20220402123456录音"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:layout_alignLeft="@id/tv_title"
+        android:text="00:00:32"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/img_close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:src="@mipmap/ic_error" />
+
+    <ImageView
+        android:id="@+id/img_next"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@id/iv_my"
+        android:layout_toLeftOf="@id/img_close"
+        android:src="@mipmap/icon_next" />
+    <ImageView
+        android:id="@+id/img_play"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_alignBottom="@id/img_next"
+        android:layout_toLeftOf="@id/img_next"
+        android:src="@mipmap/red_play" />
+    <ImageView
+        android:id="@+id/img_last"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@id/img_next"
+        android:layout_toLeftOf="@id/img_play"
+        android:src="@mipmap/icon_last" />
+
+</RelativeLayout>
